@@ -18,7 +18,7 @@ $(call inherit-product, device/xiaomi/sheng/device.mk)
 PRODUCT_DEVICE := sheng
 PRODUCT_NAME := omni_sheng
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := 24018RPACC
+PRODUCT_MODEL := Xiaomi Pad 6S Pro 12.4
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
